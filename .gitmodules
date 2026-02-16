@@ -1,3 +1,3 @@
 [submodule "Kattis"]
-	path = Kattis
+	path = Personal_projects/Kattis
 	url = https://github.com/05Mats/Kattis.git
